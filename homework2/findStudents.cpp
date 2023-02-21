@@ -3,7 +3,7 @@
 
 
 //using merge sort from https://slaystudy.com/c-merge-sort-vector/ and modified to sort by size based of mod 330
-
+//inspiration from ChatGPT https://chat.openai.com/chat/de49ad4c-da34-4447-b89b-3c0378029724
 
 
 // the interval from [s to m] and [m+1 to e] in v are sorted
